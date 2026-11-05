@@ -8,7 +8,7 @@ def validate_password(password):
         return False
 
     has_uppercase = False
-    has_lowercase = False
+    has_lowercase = False#111111
     has_digit = False
     has_special = False
 
